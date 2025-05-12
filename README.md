@@ -16,14 +16,21 @@ I'm Navjot, a third year software engineering student at the University of Calga
 ## 📈 My GitHub Stats
 
 
-<p align = "center">
-  <a href="https://github.com/NavjotSaroa/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=NavjotSaroa&hide=stars&theme=ambient_gradient" />
-  </a>
-  <a href="https://github.com/NavjotSaroa/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotSaroa&layout=donut&theme=ambient_gradient" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/NavjotSaroa/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=NavjotSaroa&hide=stars&theme=ambient_gradient" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NavjotSaroa/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotSaroa&layout=donut&theme=ambient_gradient" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 📫 Let's Connect!
 <a href = "https://www.linkedin.com/in/navjot-saroa-1ab563247/?trk=opento_sprofile_topcard"> LinkedIn </a>

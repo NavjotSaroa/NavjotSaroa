@@ -16,7 +16,7 @@ I'm Navjot, a third year software engineering student at the University of Calga
 ## 📈 My GitHub Stats
 
 
-<p>
+<p align = "center">
   <a href="https://github.com/NavjotSaroa/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=NavjotSaroa&hide=stars&theme=ambient_gradient" />
   </a>
